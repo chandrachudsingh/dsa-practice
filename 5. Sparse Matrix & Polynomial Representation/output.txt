@@ -1,0 +1,7 @@
+Enter no. of terms:
+Enter the coefficients & exponents of poynomial:
+3x^2+5x^1+7x^0
+Enter no. of terms:
+Enter the coefficients & exponents of poynomial:
+4x^3+1x^2+0x^1+5x^0
+4x^3+4x^2+5x^1+12x^0

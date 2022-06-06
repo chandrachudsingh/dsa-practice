@@ -1,0 +1,5 @@
+3 5 6 8 9 12 15 16 20 
+3 5 6 8 12 15 16 20 
+Element 16 is found
+Tree using Preorder: 5 15 18 20 25 30 35 40 45 50 60 
+Tree using Postorder: 5 15 18 20 25 30 35 40 45 50 60 

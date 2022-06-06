@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inEnd"
+			],
+			[
+				"cou",
+				"Count"
+			],
+			[
+				"is",
+				"isFull"
+			],
+			[
+				"I",
+				"InfixToPostfix"
+			],
+			[
+				"po",
+				"postfix"
+			],
+			[
+				"In",
+				"InfixToPostfix"
+			],
+			[
+				"le",
+				"Length"
+			],
+			[
+				"Sta",
+				"Stack"
+			],
+			[
+				"Nu",
+				"NULL"
+			],
+			[
+				"stk",
+				"stk2"
+			],
+			[
+				"D",
+				"Delete"
+			],
+			[
+				"del",
+				"Delete"
+			],
+			[
+				"Dele",
+				"Delete"
+			],
+			[
+				"r",
+				"RReverse"
+			],
+			[
+				"cl",
+				"climits"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"R",
+				"RDisplay"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"N",
+				"Node"
+			],
+			[
+				"to",
+				"to_vector1"
+			],
+			[
+				"ed",
+				"end"
+			],
+			[
+				"v",
+				"Vec"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"f",
+				"forward_list"
+			],
+			[
+				"str",
+				"strings"
+			],
+			[
+				"Dia",
+				"Display"
+			],
+			[
+				"date",
+				"dates_list"
+			],
+			[
+				"dates",
+				"dates_list"
+			],
+			[
+				"pre",
+				"pred_price"
+			],
+			[
+				"pred",
+				"pred_price"
+			],
+			[
+				"sta",
+				"start_day"
+			],
+			[
+				"input",
+				"input_date"
+			],
+			[
+				"inp",
+				"input_date"
+			],
+			[
+				"next",
+				"next_day"
+			],
+			[
+				"float",
+				"float_features"
+			],
+			[
+				"predic",
+				"prediction"
+			],
+			[
+				"pla",
+				"player_chips"
+			],
+			[
+				"play",
+				"playing"
+			],
+			[
+				"lo",
+				"lower"
+			],
+			[
+				"Pl",
+				"Player"
+			],
+			[
+				"dea",
+				"dealer_wins"
+			],
+			[
+				"ch",
+				"chips"
+			],
+			[
+				"sh",
+				"show_all"
+			],
+			[
+				"pl",
+				"player_hand"
+			],
+			[
+				"hi",
+				"hit"
+			],
+			[
+				"dealer",
+				"dealer_hand"
+			],
+			[
+				"de",
+				"dealer_hand"
+			],
+			[
+				"player_",
+				"player_hand"
+			],
+			[
+				"chips",
+				"chipsclass"
+			],
+			[
+				"han",
+				"handclass"
+			],
+			[
+				"dec",
+				"deckclass"
+			],
+			[
+				"car",
+				"cards"
+			],
+			[
+				"test",
+				"test_player"
+			],
+			[
+				"ca",
+				"card_item"
+			],
+			[
+				"dr",
+				"drawn_card_p2"
+			],
+			[
+				"d",
+				"drawn_card_p2"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"new",
+				"new_deck"
+			],
+			[
+				"re",
+				"remove_card"
+			],
+			[
+				"ad",
+				"add_cards"
+			],
+			[
+				"cr",
+				"created_card"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"s",
+				"suit"
+			],
+			[
+				"Tw",
+				"Two"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"ar",
+				"arr"
+			],
+			[
+				"st",
+				"sticks"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/BinaryTree/Queue.h",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/BinaryTree/Stack.h",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/BinaryTree/main.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/7. Stack/StackUsingArray.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/BinaryTree/BinaryTree.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/8. Queue/QueueUsingArray.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/BinaryTree.dev",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/BinaryTreeUsingLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/8. Queue/QueueUsingLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/9. Tree/BinaryTree.sublime-project",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/8. Queue/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/8. Queue/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/8. Queue/PriorityQueue.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/8. Queue/CircularQueue.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/7. Stack/StackUsingLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/7. Stack/InfixToPostfix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/LinkedList.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/7. Stack/EvalPostfix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/7. Stack/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/7. Stack/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/7. Stack/ParanthesisMatching.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/CircularLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/PolynomialRepUsingLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/InsertLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/5. Sparse Matrix & Polynomial Representation/PolynomialRepresentation.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/SparseMatrixUsingLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/CircularDoublyLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/5. Sparse Matrix & Polynomial Representation/SparseMatrix_UsingOperators.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/5. Sparse Matrix & Polynomial Representation/SparseMatrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/FindingIntersection2LL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/FindingMiddleNode_LL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/DoublyLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/SparseMatrixUsingLL",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/ReverseLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/CreateLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/DeleteElementLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/CountNodesLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/DisplayLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/isLoopLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/RemoveDuplicatesSortedLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/Concate&Merge2LL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/ifSortedLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/InsertSortedLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/MaxElementLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/SearchLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/6. Linked List/SumElementsLL.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/5. Sparse Matrix & Polynomial Representation/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/5. Sparse Matrix & Polynomial Representation/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/ToeplitzMatrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/ECB Code War/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/CP/ECB Code War/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/CP/HackerEarth/Basics of Implementation/Jadoo and Strings.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/HackerEarth/Basics of Implementation/Minimum moves.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/0. STL/deque.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/LowerTriangularMatrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/0. STL/vector.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/0. STL/set.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/0. STL/pair.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/0. STL/Map.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/0. STL/container_in_container.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/ECB Code War/AliceAnd_CS_class.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/ECB Code War/WinnerOfTournament.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/0. STL/sort.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/Codeforces/Book.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/Codeforces/Swaps.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/Codechef/InTest.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/Perfect Permutation.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/Beautiful Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/Helpful Maths.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/Team Olympiad.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/Watermelon.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/A2OJ Ladder/Young Physicist.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/Hackerrank/Arrays/Array Manipulation.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/Hackerrank/Arrays/Sparse Arrays.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/Diagonal Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/Symmetric Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/Lower Triangular Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/CP/InterviewBit/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/CP/InterviewBit/output.txt",
+		"/C/Users/Abhi/OneDrive/Documents/CP/InterviewBit/Kth Row of Pascal Triangle.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/1. Recursion/Combination (nCr)/main.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/Toeplitz Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/Tridiagonal Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/4. Matrices/Upper Triangular Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/Matrices/DIagonal Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/Matrices/Lowe Triangular Matrix.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/Strings/Finding Duplicates using Bits/main.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/Strings/Finding Duplicates using Bits/Finding Duplicates using Bits.cbp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/input.txt",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/iota.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/iota.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/is_sorted.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/is_sorted.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/is_sorted_until.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/is_sorted_until.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/list.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/list.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/Map.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/Map.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/MultiSet.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/MultiSet.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/MutliMap.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/MutliMap.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/nth_element.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/nth_element.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/pair.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/pair.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/partial_sort.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/partial_sort.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/priority_queue.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/queue.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/queue.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/set.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/set.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/sort.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/sort.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/stack.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/stack.exe",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/std_array.cpp",
+		"/C/Users/Abhi/OneDrive/Documents/MyWork/DSA/STL/STL_Algo.cpp"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GeneratingTreeFromTraversal",
+			"generateFromTraversal",
+			"Queue",
+			"Stack",
+			"Queue",
+			"Add->head",
+			"terms",
+			"LinkedList",
+			"DoublyLL",
+			"LinkedList",
+			"first",
+			"head",
+			"head2",
+			"head1",
+			"TridiagonalMatrix",
+			"SymmetricMatrix",
+			"LTriangular",
+			"l",
+			"L",
+			"LTriangular",
+			"ummap",
+			"Umap",
+			"set",
+			"que",
+			"\n\t",
+			"Different",
+			"D",
+			"d",
+			"D",
+			"d",
+			"D",
+			"d",
+			"D",
+			"Diagonal",
+			");\n",
+			"var",
+			");\n",
+			"')]\n",
+			"newcard",
+			"for (int i = 0; i < n; i++)\n\t\tcin >> a[i];",
+			" % 10",
+			"sum",
+			"&&",
+			"freopen",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.813004304353,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 86.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BinaryTree.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 251.2,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 399.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
